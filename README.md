@@ -21,7 +21,8 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
 ### Primeros Pasos
 
 1. **Configurar el Entorno:**
-   - Instalar Python y las librerías necesarias en este caso: PyQt6 y la standar: sys.
+   - Instalar Python y las librerías necesarias en este caso: PyQt6 y el uso de la standar: sys.
+   - Se utilizó Visual Studio Code que es un editor de código fuente ligero, para desarrollar mi código.
 
 2. **Crear la Interfaz de Usuario:**
    - Diseñar un formulario simple para capturar los datos del usuario.
@@ -47,9 +48,11 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
      
 7. **Reflexiones sobre el Bootcamp**.
    - Me ha parecido un excelente curso para iniciarme en el hermoso lenguaje de programación Python.
-   - 
-
-
+   - Todas las aportaciones que realizaron mis compañeros, me parecieron que fueron muy valiosas para mi crecimiento y desarrollo de este lenguaje.
+   - Mi coach me parecio una persona que sabe como compartir su conocimiento y resolver dudas.
+   - El único inconveniente que he tenido hasta aquí, es que, en cada sesión de la plataforma o de la app de Teams, tenía que estar actualizando o reiniciando la app.
+   - Por último, me queda la satisfacción de seguir tomando otro curso de python en Bootcamp.
+     
 Esta es una implementación básica para comenzar con la interfaz gráfica y el cálculo del IMC. Se puede seguir desarrollando este código añadiendo más validaciones, mejorando la interfaz de usuario e incluyendo las características requeridas para el proyecto.
 
 [![maxresdefault.jpg](https://i.postimg.cc/GpMrJnkQ/maxresdefault.jpg)](https://postimg.cc/Mcjhq43M)
