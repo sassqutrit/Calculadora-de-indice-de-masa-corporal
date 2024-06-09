@@ -55,4 +55,6 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
      
 Esta es una implementación básica para comenzar con la interfaz gráfica y el cálculo del IMC. Se puede seguir desarrollando este código añadiendo más validaciones, mejorando la interfaz de usuario e incluyendo las características requeridas para el proyecto.
 
+[![IMC.jpg](https://i.postimg.cc/hjMgL7RY/IMC.jpg)](https://postimg.cc/0M6LxjQG)
+
 [![maxresdefault.jpg](https://i.postimg.cc/GpMrJnkQ/maxresdefault.jpg)](https://postimg.cc/Mcjhq43M)
