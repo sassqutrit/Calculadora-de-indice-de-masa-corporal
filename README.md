@@ -32,6 +32,7 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
 3. **Implementar la Validación de Entrada:**
    - Asegurarse de que ningún campo de entrada esté vacío.
    - Verificar que edad, peso y altura sean numéricos.
+   - Se implemento un rango para la edad, peso y estatura, que no exceda mas de lo normal o lógico, segun información investigada.
 
 4. **Calcular y Mostrar el IMC:**
    - Implementar la lógica de cálculo del IMC.
