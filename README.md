@@ -1,7 +1,7 @@
 # Calculadora-de-índice-de-masa-corporal
 Este proyecto le pide al usuario su nombre, apellido paterno, apellido materno, edad, peso y estatura, que lo despliega en pantalla junto con su Índice de Masa Corporal (IMC).
 
-El documento describe un proyecto para crear una calculadora del Índice de Masa Corporal (IMC) usando Python, con énfasis en la implementación de una interfaz gráfica usando PyQt6 o PySide6. A continuación, se presenta un resumen estructurado y algunos pasos para comenzar:
+El código describe un proyecto para crear una calculadora del Índice de Masa Corporal (IMC) usando Python, con énfasis en la implementación de una interfaz gráfica usando PyQt6. A continuación, se presenta un resumen estructurado y algunos pasos para comenzar:
 
 ### Descripción del Proyecto
 - **Objetivo:** Desarrollar un programa que solicite datos personales al usuario (nombre, apellidos, edad, peso, altura) y calcule su IMC.
@@ -17,13 +17,6 @@ El documento describe un proyecto para crear una calculadora del Índice de Masa
 - **Cálculo del IMC:** Implementar la fórmula del IMC.
 - **Implementación de la Interfaz Gráfica:** Usar PyQt6 o PySide6 para la interfaz gráfica.
 - **Envío en GitHub:** Subir el proyecto a un repositorio público en GitHub con una explicación en README.md.
-
-### Criterios de Evaluación
-- **Captura de Datos del Usuario (20 puntos):** Obtener y almacenar correctamente los datos del usuario.
-- **Validación de Datos (25 puntos):** Mostrar mensajes de error para entradas inválidas o faltantes.
-- **Operaciones Aritméticas (25 puntos):** Calcular correctamente el IMC.
-- **Salida de Datos (20 puntos):** Mostrar todos los datos introducidos y el IMC.
-- **Repositorio de GitHub (10 puntos):** Subir correctamente el programa a GitHub e incluir un README.md detallado.
 
 ### Primeros Pasos
 
@@ -50,11 +43,6 @@ El documento describe un proyecto para crear una calculadora del Índice de Masa
    - Crear un repositorio en GitHub.
    - Añadir tu código Python y un archivo README.md explicando tu proyecto, el proceso y reflexiones sobre el bootcamp.
 
-### Ejemplo de Código Base
-
-Aquí tienes un esquema básico para comenzar con PyQt6:
-
-Esta es una implementación básica para comenzar con la interfaz gráfica y el cálculo del IMC. Puedes desarrollar esto añadiendo más validaciones, mejorando la interfaz de usuario e incluyendo las características requeridas para el proyecto.
-
+Esta es una implementación básica para comenzar con la interfaz gráfica y el cálculo del IMC. Se puede seguir desarrollando este código añadiendo más validaciones, mejorando la interfaz de usuario e incluyendo las características requeridas para el proyecto.
 
 [![maxresdefault.jpg](https://i.postimg.cc/GpMrJnkQ/maxresdefault.jpg)](https://postimg.cc/Mcjhq43M)
