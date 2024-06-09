@@ -15,13 +15,13 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
 ### Requisitos Clave
 - **Validación de Entrada del Usuario:** Asegurarse de que ningún campo esté vacío y que los campos de edad, peso y altura contengan números válidos.
 - **Cálculo del IMC:** Implementar la fórmula del IMC.
-- **Implementación de la Interfaz Gráfica:** Usar PyQt6 o PySide6 para la interfaz gráfica.
+- **Implementación de la Interfaz Gráfica:** Usar PyQt6 para la interfaz gráfica.
 - **Envío en GitHub:** Subir el proyecto a un repositorio público en GitHub con una explicación en README.md.
 
 ### Primeros Pasos
 
 1. **Configurar el Entorno:**
-   - Instalar Python y las librerías necesarias: PyQt6 o PySide6.
+   - Instalar Python y las librerías necesarias en este caso: PyQt6 y la standar: sys.
 
 2. **Crear la Interfaz de Usuario:**
    - Diseñar un formulario simple para capturar los datos del usuario.
@@ -37,11 +37,18 @@ El código describe un proyecto para crear una calculadora del Índice de Masa C
    - Mostrar los resultados en la interfaz gráfica.
 
 5. **Pruebas:**
-   - Probar el programa con varias entradas para asegurar que la validación y el cálculo sean correctos.
+   - Se puso a prueba el programa con varias entradas para asegurar que la validación y el cálculo sean correctos.
 
 6. **Prepararse para la Entrega:**
-   - Crear un repositorio en GitHub.
-   - Añadir tu código Python y un archivo README.md explicando tu proyecto, el proceso y reflexiones sobre el bootcamp.
+   - Se procedió a crear un repositorio en GitHub con el nombre: Calculadora de índice de masa corporal.
+   - Se añadió mi código Python en un script .py y un archivo README.md explicando mi proyecto y el proceso de este.
+   - Me propuse a utilizar la libreria PyQt6, debido a que ya tenía un poquito de conocimiento sobre python (10 años).
+   - Se utilizaron las enseñanzas de codificación que había adquirido de mi Coach en el Bootcamp. 
+     
+7. **Reflexiones sobre el Bootcamp**.
+   - Me ha parecido un excelente curso para iniciarme en el hermoso lenguaje de programación Python.
+   - 
+
 
 Esta es una implementación básica para comenzar con la interfaz gráfica y el cálculo del IMC. Se puede seguir desarrollando este código añadiendo más validaciones, mejorando la interfaz de usuario e incluyendo las características requeridas para el proyecto.
 
